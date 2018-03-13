@@ -27,6 +27,10 @@
   "type" : "RIGHTNAV",
   "params" : [ ]
 }, {
+  "name" : "test332",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
   "name" : "topnav",
   "type" : "TOPNAV",
   "params" : [ ]
